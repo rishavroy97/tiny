@@ -9,13 +9,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @rishavroy97/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@rishavroy97/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
